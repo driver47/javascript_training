@@ -1,6 +1,6 @@
 //ARROW FUNCTIONS
 
-/* Son una arternativa compacta a una función convencional. 
+/* Son una alternativa compacta a una función convencional. 
 No son adecuadas para ser usadas como métodos, 
 y no pueden ser usadas como constructores. 
 */

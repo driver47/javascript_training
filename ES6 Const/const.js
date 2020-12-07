@@ -9,7 +9,7 @@ Para diferenciarlo de las variables conviene utilizar todo mayuscula. */
 function saludar(){
     "use strict"
     const SALUDO = "Hola, Daniel"; 
-    // saludo = "hola, Julieta"; //Muestra error no se puede redefinir la variable
+    // SALUDO = "hola, Julieta"; //Muestra error no se puede redefinir la variable
     console.log(SALUDO);
 }
 
