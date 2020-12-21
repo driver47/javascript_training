@@ -12,6 +12,7 @@ window.addEventListener("load", function(){
 
         constructor(marca){
             this._marca = marca; 
+         
         }
         get marca() {
             return this._marca; 
@@ -22,11 +23,11 @@ window.addEventListener("load", function(){
 
     }
 
-    let myCar = new Car ("Toyota");
+    let myCar = new Car("Toyota"); // here use the class constructor 
     
-    myCar.marca = "Ford";
+    myCar.marca = "Ford"; //here use set 
 
-    mensage.innerHTML = "Mi Automovil es un "+myCar.marca; 
+    mensage.innerHTML = "Mi Automovil es un "+myCar.marca; //here use get 
 
 
 
