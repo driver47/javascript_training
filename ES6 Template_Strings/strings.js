@@ -31,6 +31,11 @@ let num1 = 8;
 let num2 = 7;
 //ES5 
 console.log("La suma es / ES5 : " + (num1 + num2) + "\n y La resta: " + (num1 - num2) + ".");
+
 //ES6
 console.log(`La suma es /ES6 : ${num2 + num2}
+
 y la Resta: ${num1 - num2}.`); // Wow
+
+
+
